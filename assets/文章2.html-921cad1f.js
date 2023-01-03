@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as s,R as e,t as _}from"./framework-6593f3fa.js";const c={},o=e("h1",{id:"文章-2",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#文章-2","aria-hidden":"true"},"#"),_(" 文章 2")],-1),n=e("p",null,"文章 2 内容。",-1),r=[o,n];function d(i,l){return a(),s("div",null,r)}const f=t(c,[["render",d],["__file","文章2.html.vue"]]);export{f as default};

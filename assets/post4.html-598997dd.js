@@ -1,0 +1,1 @@
+import{_ as t,p as o,q as s,R as e,t as a}from"./framework-6593f3fa.js";const c={},n=e("h1",{id:"post-4",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#post-4","aria-hidden":"true"},"#"),a(" Post 4")],-1),r=e("p",null,"Post 4 content.",-1),_=[n,r];function d(i,l){return o(),s("div",null,_)}const p=t(c,[["render",d],["__file","post4.html.vue"]]);export{p as default};
