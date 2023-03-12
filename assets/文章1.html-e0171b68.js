@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as s,R as e,t as _}from"./framework-ca286ba9.js";const c={},o=e("h1",{id:"文章-1",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#文章-1","aria-hidden":"true"},"#"),_(" 文章 1")],-1),n=e("p",null,"文章 1 内容。",-1),r=[o,n];function d(i,l){return a(),s("div",null,r)}const f=t(c,[["render",d],["__file","文章1.html.vue"]]);export{f as default};

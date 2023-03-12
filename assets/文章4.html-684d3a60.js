@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-dcba41c0","path":"/%E5%8D%9A%E6%96%87/%E6%A0%87%E7%AD%BEA/%E6%96%87%E7%AB%A04.html","title":"文章 4","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1678611822000,"contributors":[{"name":"Mr.Hope","email":"mister-hope@outlook.com","commits":1}]},"filePathRelative":"博文/标签A/文章4.md"}');export{t as data};
